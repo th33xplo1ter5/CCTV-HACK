@@ -22,9 +22,9 @@ apt update -y
 
 apt upgrade -y
 
-pkg install python2 -y
+apt install python2 -y
 
-pkg install git -y
+apt install git -y
 
 git clone https://github.com/th33xplo1ter5/CCTV-HACK.git
 
