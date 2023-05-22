@@ -26,7 +26,7 @@ pkg install python2 -y
 
 pkg install git -y
 
-git clone https://github.com/S4MI-404/CCTV-R
+git clone https://github.com/th33xplo1ter5/CCTV-HACK.git
 
 cd CCTV-R
 
@@ -57,6 +57,6 @@ Password : 9999
 <html>
 </head>
 <body>
-<P> Our Facebook Group :- <a href="https://www.facebook.com/groups/1247616299128920/" target="_blank"> The Art Of Ethical Hackers </a>
+<P> Our Telegram Channel :- <a href="https://t.me/th33xplo1ter5" target="_blank"> The Art Of Ethical Hackers </a>
 </body>
 </html>
