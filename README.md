@@ -57,6 +57,6 @@ Password : 9999
 <html>
 </head>
 <body>
-<P> Our Telegram Channel :- <a href="https://t.me/th33xplo1ter5" target="_blank"> The Art Of Ethical Hackers </a>
+<P> Our Telegram Channel :- <a href="https://t.me/th33xplo1ter5" target="_blank"> Th3 3xplo1ter5 </a>
 </body>
 </html>
